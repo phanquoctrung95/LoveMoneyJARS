@@ -1,2 +1,2 @@
 # LoveMoneyJARS
-Managerment money with JARS rules.
+Management money with JARS rules.
